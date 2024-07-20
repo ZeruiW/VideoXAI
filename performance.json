@@ -1,0 +1,9 @@
+{
+    "accuracy": 0.4,
+    "precision": 0.75,
+    "recall": 0.4,
+    "f1_score": 0.47619047619047616,
+    "time_consumed": 57.50379800796509,
+    "cpu_energy": 0.0,
+    "gpu_energy": 0.0
+}
