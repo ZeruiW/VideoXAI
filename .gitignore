@@ -1,5 +1,6 @@
 *.mp4
 *.png
 *.json
+*.pth
 ResultsLIME
 attention_results
