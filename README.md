@@ -1,5 +1,5 @@
 
-# Temporal SHAP - README
+## The supplementary experiments results: https://drive.google.com/file/d/1R8r2ZDcuikLu9s4CeeYZgW4bDxR_r5LD/view?usp=sharing
 
 ## Overview
 
@@ -7,7 +7,7 @@ This repository provides an implementation for generating SHAP values for tempor
 
 ## Table of Contents
 
-- [Temporal SHAP - README](#temporal-shap---readme)
+
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
